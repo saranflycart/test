@@ -69,6 +69,7 @@
 		<position>off-canvas</position>
 		<position>map-module</position>
 		<position>sidebar-1</position>
+		<position>sidebar-3</position>
 		<position>sidebar-2</position>
 		<position>mast-col</position>
 		<position>footer</position>

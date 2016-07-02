@@ -25,7 +25,7 @@ defined('_JEXEC') or die;
 <div class="span8 col-md-8">
 	<div class="t3-admin-overview-header">
 		<h2>
-		TP CareFree
+		Carefree template
       <small style="display: block;">CareFree Multi-Purpose Joomla Template for Joomla 3x.</small>
     </h2>
     <p>

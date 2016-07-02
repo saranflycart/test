@@ -78,5 +78,5 @@ class T3_BS3_BlankHook extends JEvent
 	}
 }
 
-*/
+*/ //tamplrere 
 ?>
